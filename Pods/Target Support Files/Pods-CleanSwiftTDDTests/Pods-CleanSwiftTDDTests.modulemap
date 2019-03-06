@@ -1,0 +1,6 @@
+framework module Pods_CleanSwiftTDDTests {
+  umbrella header "Pods-CleanSwiftTDDTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
